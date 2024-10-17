@@ -33,7 +33,7 @@
 ## 安装与运行
 
 ### 1. 下载与安装
-- 请前往 [GitHub 项目主页](https://github.com/username/invoice-merger) 下载最新版的发布版本。
+- 请前往 [GitHub 项目主页](https://github.com/yehx6/invoice-merger) 下载最新版的发布版本。
 - 将下载的压缩包解压后，双击运行 `setup.exe` 进行安装。
 - 安装完成后，桌面会出现一个名为 "发票报销助手" 的图标，双击即可打开软件。
 
@@ -102,7 +102,7 @@
 - 界面底部的数据框显示最佳组合发票的详细信息，包括文件名、金额、总金额及差值。
 - 整个界面布局整洁、功能明确，适合没有技术背景的用户上手操作。
 
-![界面示例](https://github.com/username/invoice-merger/screenshots/interface.png)
+![界面示例](https://github.com/yehx6/invoice-merger/blob/main/QQ20241017-103614.png)
 
 ## 常见问题
 
@@ -122,8 +122,9 @@
 
 如需进一步帮助或有任何问题，欢迎通过微信联系软件作者：
 
+![微信二维码](https://github.com/yehx6/invoice-merger/blob/main/wechat.png)
 
-- GitHub 项目地址：https://github.com/yehx6/invoice-merger
+- GitHub 项目地址：[https://github.com/username/invoice-merger](https://github.com/username/invoice-merger)
 - 如果在使用过程中遇到问题，请在 GitHub 提交 issue 或联系我。
 
 ## 许可证
