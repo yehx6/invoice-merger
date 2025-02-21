@@ -120,11 +120,8 @@
 
 欢迎大家为本项目贡献代码或提出改进建议！
 
-如需进一步帮助或有任何问题，欢迎通过微信联系软件作者：
-
-![欢迎加入QQ群交流]
+如需进一步帮助或有任何问题，欢迎通过微信/QQ群联系软件作者：
 <img src="https://github.com/yehx6/invoice-merger/blob/main/qrcode_1740118511684.jpg?raw=true" style="width: 50%;" />
-
 - GitHub 项目地址：[https://github.com/yehx6/invoice-merger](https://github.com/yehx6/invoice-merger)
 - 如果在使用过程中遇到问题，请在 GitHub 提交 issue 或联系我。
 
