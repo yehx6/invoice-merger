@@ -122,7 +122,7 @@
 
 如需进一步帮助或有任何问题，欢迎通过微信联系软件作者：
 
-![微信二维码](https://github.com/yehx6/invoice-merger/blob/main/wechat.png)
+![欢迎加入QQ群交流](https://github.com/yehx6/invoice-merger/blob/main/qrcode_1740118511684.jpg?raw=true)
 
 - GitHub 项目地址：[https://github.com/yehx6/invoice-merger](https://github.com/yehx6/invoice-merger)
 - 如果在使用过程中遇到问题，请在 GitHub 提交 issue 或联系我。
