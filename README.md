@@ -1,4 +1,4 @@
-# 发票报销智能助手
+# 发票管理系统
 为了方便大家，已开发成小程序，除了自动计算报销发票组合，还接入了OCR,发票查验，保存发票原件截图等功能，识别准确度媲美任何一家大厂！！！
 <img src="https://github.com/yehx6/invoice-merger/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250623090234.jpg?raw=true" style="width: 50%;" />
 
